@@ -343,6 +343,7 @@
 
     <modules>
         <module>curator-client</module>
+        <module>curator-client-slim</module>
         <module>curator-test</module>
         <module>curator-framework</module>
         <module>curator-recipes</module>
